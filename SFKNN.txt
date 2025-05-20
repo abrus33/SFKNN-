@@ -1,0 +1,362 @@
+diary on
+batch_clustering_test
+SFKNN
+UCI数据集
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+        dataset           AMI        ARI       FMI      K
+    ________________    _______    _______    ______    _
+
+    "Ionosphere.txt"    0.30347    0.41999    0.7588    7
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      dataset        AMI        ARI        FMI      K
+    ____________    ______    _______    _______    _
+
+    "Libras.txt"    0.5341    0.33155    0.39554    6
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+         dataset            AMI       ARI        FMI      K 
+    __________________    _______    ______    _______    __
+
+    "Segmentation.txt"    0.57514    0.4729    0.56622    12
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset        AMI        ARI        FMI      K 
+    __________    _______    _______    _______    __
+
+    "Wdbc.txt"    0.58518    0.68731    0.86164    41
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset        AMI        ARI        FMI      K
+    __________    _______    _______    _______    _
+
+    "Wine.txt"    0.81746    0.86469    0.91025    6
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+         dataset           AMI       ARI        FMI      K 
+    _________________    _______    ______    _______    __
+
+    "dermatology.txt"    0.70558    0.6993    0.76254    45
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      dataset        AMI        ARI        FMI      K
+    ___________    _______    _______    _______    _
+
+    "ecoli.txt"    0.63903    0.74185    0.81951    6
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      dataset        AMI       ARI        FMI      K 
+    ___________    _______    ______    _______    __
+
+    "glass.txt"    0.50458    0.5829    0.71212    12
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset        AMI        ARI        FMI      K
+    __________    _______    _______    _______    _
+
+    "iris.txt"    0.88313    0.90377    0.93545    8
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+          dataset            AMI        ARI        FMI      K
+    ___________________    _______    _______    _______    _
+
+    "seeds_dataset.txt"    0.77323    0.81309    0.87492    5
+
+The EMI is small: EMI < 0.001190, setting AMI=NMIThe EMI is small: EMI < 0.000755, setting AMI=NMIThe EMI is small: EMI < 0.000796, setting AMI=NMIThe EMI is small: EMI < 0.000799, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000799, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMIThe EMI is small: EMI < 0.000800, setting AMI=NMI
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+       dataset          AMI        ARI        FMI      K
+    ______________    _______    _______    _______    _
+
+    "waveform.txt"    0.35672    0.35546    0.58985    7
+
+人工数据集
+
+resultBestari =
+
+  16×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+         dataset           AMI        ARI        FMI      K 
+    _________________    _______    _______    _______    __
+
+    "Aggregation.txt"    0.99054    0.99489    0.99599     7
+    "Aggregation.txt"    0.99054    0.99489    0.99599     8
+    "Aggregation.txt"    0.99054    0.99489    0.99599     9
+    "Aggregation.txt"    0.99054    0.99489    0.99599    13
+    "Aggregation.txt"    0.99054    0.99489    0.99599    15
+    "Aggregation.txt"    0.99054    0.99489    0.99599    17
+    "Aggregation.txt"    0.99054    0.99489    0.99599    18
+    "Aggregation.txt"    0.99054    0.99489    0.99599    19
+    "Aggregation.txt"    0.99054    0.99489    0.99599    20
+    "Aggregation.txt"    0.99054    0.99489    0.99599    21
+    "Aggregation.txt"    0.99054    0.99489    0.99599    22
+    "Aggregation.txt"    0.99054    0.99489    0.99599    23
+    "Aggregation.txt"    0.99054    0.99489    0.99599    29
+    "Aggregation.txt"    0.99054    0.99489    0.99599    30
+    "Aggregation.txt"    0.99054    0.99489    0.99599    31
+    "Aggregation.txt"    0.99054    0.99489    0.99599    33
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+       dataset          AMI        ARI        FMI      K
+    ______________    _______    _______    _______    _
+
+    "Compound.txt"    0.85474    0.87169    0.90553    3
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset       AMI        ARI        FMI      K 
+    _________    _______    _______    _______    __
+
+    "D31.txt"    0.96599    0.95301    0.95451    50
+
+
+resultBestari =
+
+  6×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+        dataset        AMI    ARI    FMI    K 
+    _______________    ___    ___    ___    __
+
+    "LineBlobs.txt"     1      1      1      6
+    "LineBlobs.txt"     1      1      1      7
+    "LineBlobs.txt"     1      1      1      8
+    "LineBlobs.txt"     1      1      1      9
+    "LineBlobs.txt"     1      1      1     10
+    "LineBlobs.txt"     1      1      1     11
+
+The EMI is small: EMI < 0.013283, setting AMI=NMI
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset       AMI        ARI        FMI      K 
+    _________    _______    _______    _______    __
+
+    "Ls3.txt"    0.98491    0.98767    0.99137    46
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset       AMI        ARI        FMI      K 
+    _________    _______    _______    _______    __
+
+    "R15.txt"    0.99383    0.99287    0.99333    39
+
+
+resultBestari =
+
+  14×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      dataset       AMI    ARI    FMI    K 
+    ____________    ___    ___    ___    __
+
+    "Sticks.txt"     1      1      1      5
+    "Sticks.txt"     1      1      1      6
+    "Sticks.txt"     1      1      1      7
+    "Sticks.txt"     1      1      1      9
+    "Sticks.txt"     1      1      1     10
+    "Sticks.txt"     1      1      1     11
+    "Sticks.txt"     1      1      1     12
+    "Sticks.txt"     1      1      1     13
+    "Sticks.txt"     1      1      1     14
+    "Sticks.txt"     1      1      1     15
+    "Sticks.txt"     1      1      1     16
+    "Sticks.txt"     1      1      1     17
+    "Sticks.txt"     1      1      1     18
+    "Sticks.txt"     1      1      1     50
+
+The EMI is small: EMI < 0.001255, setting AMI=NMIThe EMI is small: EMI < 0.001330, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMIThe EMI is small: EMI < 0.001331, setting AMI=NMI
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+       dataset          AMI        ARI        FMI      K 
+    ______________    _______    _______    _______    __
+
+    "Twomoons.txt"    0.78679    0.65505    0.82519    29
+
+The EMI is small: EMI < 0.002708, setting AMI=NMIThe EMI is small: EMI < 0.002811, setting AMI=NMIThe EMI is small: EMI < 0.002988, setting AMI=NMIThe EMI is small: EMI < 0.003122, setting AMI=NMIThe EMI is small: EMI < 0.003147, setting AMI=NMIThe EMI is small: EMI < 0.003115, setting AMI=NMIThe EMI is small: EMI < 0.003145, setting AMI=NMIThe EMI is small: EMI < 0.003148, setting AMI=NMIThe EMI is small: EMI < 0.003150, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003150, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003146, setting AMI=NMIThe EMI is small: EMI < 0.003145, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.003152, setting AMI=NMIThe EMI is small: EMI < 0.002101, setting AMI=NMIThe EMI is small: EMI < 0.002101, setting AMI=NMIThe EMI is small: EMI < 0.002101, setting AMI=NMIThe EMI is small: EMI < 0.002101, setting AMI=NMIThe EMI is small: EMI < 0.002103, setting AMI=NMIThe EMI is small: EMI < 0.002101, setting AMI=NMIThe EMI is small: EMI < 0.002103, setting AMI=NMIThe EMI is small: EMI < 0.002103, setting AMI=NMIThe EMI is small: EMI < 0.002099, setting AMI=NMIThe EMI is small: EMI < 0.002102, setting AMI=NMIThe EMI is small: EMI < 0.002103, setting AMI=NMIThe EMI is small: EMI < 0.002101, setting AMI=NMIThe EMI is small: EMI < 0.002097, setting AMI=NMIThe EMI is small: EMI < 0.002102, setting AMI=NMIThe EMI is small: EMI < 0.002102, setting AMI=NMIThe EMI is small: EMI < 0.002104, setting AMI=NMIThe EMI is small: EMI < 0.002104, setting AMI=NMIThe EMI is small: EMI < 0.002105, setting AMI=NMI
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+       dataset         AMI        ARI        FMI      K
+    _____________    _______    _______    _______    _
+
+    "circle3.txt"    0.70323    0.65916    0.80816    7
+
+
+resultBestari =
+
+  11×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset     AMI    ARI    FMI    K 
+    _________    ___    ___    ___    __
+
+    "cmc.txt"     1      1      1     40
+    "cmc.txt"     1      1      1     41
+    "cmc.txt"     1      1      1     42
+    "cmc.txt"     1      1      1     43
+    "cmc.txt"     1      1      1     44
+    "cmc.txt"     1      1      1     45
+    "cmc.txt"     1      1      1     46
+    "cmc.txt"     1      1      1     47
+    "cmc.txt"     1      1      1     48
+    "cmc.txt"     1      1      1     49
+    "cmc.txt"     1      1      1     50
+
+
+resultBestari =
+
+  18×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset      AMI    ARI    FMI    K 
+    __________    ___    ___    ___    __
+
+    "cth3.txt"     1      1      1     22
+    "cth3.txt"     1      1      1     23
+    "cth3.txt"     1      1      1     24
+    "cth3.txt"     1      1      1     25
+    "cth3.txt"     1      1      1     26
+    "cth3.txt"     1      1      1     27
+    "cth3.txt"     1      1      1     28
+    "cth3.txt"     1      1      1     29
+    "cth3.txt"     1      1      1     30
+    "cth3.txt"     1      1      1     31
+    "cth3.txt"     1      1      1     43
+    "cth3.txt"     1      1      1     44
+    "cth3.txt"     1      1      1     45
+    "cth3.txt"     1      1      1     46
+    "cth3.txt"     1      1      1     47
+    "cth3.txt"     1      1      1     48
+    "cth3.txt"     1      1      1     49
+    "cth3.txt"     1      1      1     50
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset        AMI        ARI        FMI      K
+    __________    _______    _______    _______    _
+
+    "db13.txt"    0.60671    0.49061    0.68874    5
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+         dataset           AMI       ARI        FMI      K 
+    _________________    _______    ______    _______    __
+
+    "dermatology.txt"    0.70558    0.6993    0.76254    45
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      dataset        AMI        ARI        FMI      K
+    ___________    _______    _______    _______    _
+
+    "flame.txt"    0.96166    0.98325    0.99221    4
+
+
+resultBestari =
+
+  2×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset        AMI        ARI        FMI      K 
+    __________    _______    _______    _______    __
+
+    "jain.txt"    0.78119    0.87712    0.95466    27
+    "jain.txt"    0.78119    0.87712    0.95466    28
+
+
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+        dataset          AMI        ARI        FMI      K
+    _______________    _______    _______    _______    _
+
+    "pathbased.txt"    0.96944    0.97981    0.98652    9
+
+The EMI is small: EMI < 0.001111, setting AMI=NMIThe EMI is small: EMI < 0.001165, setting AMI=NMIThe EMI is small: EMI < 0.001180, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001211, setting AMI=NMIThe EMI is small: EMI < 0.001208, setting AMI=NMIThe EMI is small: EMI < 0.001209, setting AMI=NMIThe EMI is small: EMI < 0.001209, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001213, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001213, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001215, setting AMI=NMIThe EMI is small: EMI < 0.001214, setting AMI=NMIThe EMI is small: EMI < 0.000607, setting AMI=NMIThe EMI is small: EMI < 0.000607, setting AMI=NMIThe EMI is small: EMI < 0.000607, setting AMI=NMIThe EMI is small: EMI < 0.000607, setting AMI=NMIThe EMI is small: EMI < 0.000607, setting AMI=NMIThe EMI is small: EMI < 0.000607, setting AMI=NMIThe EMI is small: EMI < 0.000607, setting AMI=NMI
+resultBestari =
+
+  1×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+     dataset        AMI        ARI        FMI      K
+    __________    _______    _______    _______    _
+
+    "ring.txt"    0.89302    0.89155    0.95193    8
+
+
+resultBestari =
+
+  6×5 <a href="matlab:helpPopup table" style="font-weight:bold">table</a>
+
+      dataset       AMI    ARI    FMI    K
+    ____________    ___    ___    ___    _
+
+    "spiral.txt"     1      1      1     2
+    "spiral.txt"     1      1      1     3
+    "spiral.txt"     1      1      1     4
+    "spiral.txt"     1      1      1     5
+    "spiral.txt"     1      1      1     6
+    "spiral.txt"     1      1      1     8
+
+diary off
